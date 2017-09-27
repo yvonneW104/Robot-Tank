@@ -5,7 +5,7 @@
 **Team Member:** Ying Wang, Junyi Zhu, Zhuoer Wang
 
 Developed four functions to control the Robot Tank through Bluetooth by self-written Andriod Application
-* Auto-pilot Mode: automatically detect the route through attached ADC sensors
+* Auto-pilot Mode: automatically detect the route through attached distance sensors
 * Gravity Mode: through cellphone embedded gyroscope sensor
 * Voice Control: through cellphone embedded voice sensors
 * Facial Detection Mode: using the FaceDectionListener embedded in camera to make the tank follow the controller
